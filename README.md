@@ -1,5 +1,3 @@
-# ML-Health
-
 **EFFECTS OF MENTAL HEALTH ON STUDENTS’ CGPA**
 
 **Dataset**
