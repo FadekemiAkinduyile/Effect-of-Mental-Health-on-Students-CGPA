@@ -6,7 +6,7 @@
 
 
 
-# <h1 align="center" id="heading"># EFFECTS OF MENTAL HEALTH ON STUDENTS’ CGPA
+# <h1 align="center" id="heading"> EFFECTS OF MENTAL HEALTH ON STUDENTS’ CGPA
 </h1>
 
 
