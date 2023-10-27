@@ -6,11 +6,11 @@
 
 
 
-# <h1 align="center" id="heading"># Project Title-Team Members: Person 1, Person 2
+# <h1 align="center" id="heading"># EFFECTS OF MENTAL HEALTH ON STUDENTS’ CGPA
 </h1>
 
 
- **EFFECTS OF MENTAL HEALTH ON STUDENTS’ CGPA**
+
 
 **Dataset**
 
